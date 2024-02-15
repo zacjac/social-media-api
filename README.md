@@ -70,5 +70,6 @@ Deploy to a Cloud Provider:
 Deploy your FastAPI application to a cloud provider like AWS, Azure, or Heroku.
 Containerization:
 Optionally, use Docker for containerization.
-Conclusion
+
+#Conclusion
 This project outline covers the major components of an advanced Social Media Platform API with FastAPI. Depending on your specific requirements, you may need to customize and expand certain features. Additionally, ensure that you follow best practices for security, scalability, and maintainability throughout the development process.
